@@ -1,0 +1,242 @@
+[
+  {
+    "type": "single_source_event",
+    "semantic_event": "AMF_INITIAL_UE_MESSAGE",
+    "sources": [
+      "amf"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "AMF_NSMF_API_CALL",
+    "sources": [
+      "amf"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "AMF_PDU_SESSION_TRIGGER",
+    "sources": [
+      "amf"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "AMF_REG_COMPLETE",
+    "sources": [
+      "amf"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "GNB_CONTEXT_SETUP",
+    "sources": [
+      "gnb"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "GNB_NG_SETUP",
+    "sources": [
+      "gnb"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "GNB_PDU_SETUP",
+    "sources": [
+      "gnb"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "SMF_IP_ASSIGNED",
+    "sources": [
+      "smf"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "SMF_SESSION_ADDED",
+    "sources": [
+      "smf"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "UE_AUTH_REQ",
+    "sources": [
+      "ue"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "UE_PDU_ACCEPT",
+    "sources": [
+      "ue"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "UE_PDU_REQ",
+    "sources": [
+      "ue"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "UE_PDU_SUCCESS",
+    "sources": [
+      "ue"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "UE_REG_ACCEPT",
+    "sources": [
+      "ue"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "UE_SECURITY_MODE",
+    "sources": [
+      "ue"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "UE_TUN_UP",
+    "sources": [
+      "ue"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "UPF_FSEID",
+    "sources": [
+      "upf"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "UPF_SESSION_ADDED",
+    "sources": [
+      "upf"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "SessionModificationRequest",
+    "sources": [
+      "pfcp_sniffer"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "SessionModificationResponse",
+    "sources": [
+      "pfcp_sniffer"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "SessionDeletionRequest",
+    "sources": [
+      "pfcp_sniffer"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "SessionDeletionResponse",
+    "sources": [
+      "pfcp_sniffer"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "SessionEstablishmentRequest",
+    "sources": [
+      "pfcp_sniffer"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "SessionEstablishmentResponse",
+    "sources": [
+      "pfcp_sniffer"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "forged_event",
+    "semantic_event": "SMF_IP_ASSIGNED",
+    "sources": [
+      "smf"
+    ],
+    "severity": "high"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "SMF_IP_ASSIGNED",
+    "sources": [
+      "smf"
+    ],
+    "severity": "low"
+  },
+  {
+    "type": "forged_event",
+    "semantic_event": "PFCPUnknown",
+    "sources": [
+      "smf"
+    ],
+    "severity": "high"
+  },
+  {
+    "type": "unknown_pfcp_event",
+    "semantic_event": "PFCPUnknown",
+    "sources": [
+      "smf"
+    ],
+    "severity": "high"
+  },
+  {
+    "type": "forged_event",
+    "semantic_event": "PFCPUnknown",
+    "sources": [
+      "smf"
+    ],
+    "severity": "high"
+  },
+  {
+    "type": "single_source_event",
+    "semantic_event": "PFCPUnknown",
+    "sources": [
+      "smf"
+    ],
+    "severity": "medium"
+  }
+]

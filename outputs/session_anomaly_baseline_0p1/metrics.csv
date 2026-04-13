@@ -1,0 +1,2 @@
+precision,recall,f1,accuracy,mode,scenario,tamper_level,tp,fp,tn,fn,tamper_detection_rate
+1.0,1.0,1.0,1.0,baseline,session_anomaly,0.1,1,0,0,0,0.9091

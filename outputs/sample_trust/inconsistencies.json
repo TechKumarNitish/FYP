@@ -1,0 +1,58 @@
+[
+  {
+    "type": "single_source_critical_event",
+    "semantic_event": "UERANRegistrationEvent",
+    "sources": [
+      "ue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "type": "single_source_critical_event",
+    "semantic_event": "UERANRegistrationEvent",
+    "sources": [
+      "gnb"
+    ],
+    "severity": "medium"
+  },
+  {
+    "type": "single_source_critical_event",
+    "semantic_event": "RegistrationEvent",
+    "sources": [
+      "amf"
+    ],
+    "severity": "medium"
+  },
+  {
+    "type": "single_source_critical_event",
+    "semantic_event": "AuthenticationEvent",
+    "sources": [
+      "amf"
+    ],
+    "severity": "medium"
+  },
+  {
+    "type": "single_source_critical_event",
+    "semantic_event": "PDUSessionEvent",
+    "sources": [
+      "smf"
+    ],
+    "severity": "medium"
+  },
+  {
+    "type": "single_source_critical_event",
+    "semantic_event": "UERANPDUSessionEvent",
+    "sources": [
+      "ue"
+    ],
+    "severity": "medium"
+  },
+  {
+    "type": "single_source_critical_event",
+    "semantic_event": "PFCPUnknown",
+    "sources": [
+      "smf"
+    ],
+    "severity": "medium"
+  }
+]

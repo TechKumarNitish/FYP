@@ -1,0 +1,16 @@
+mode: baseline
+trust:
+  enabled: false
+  min_source_trust: 1.0
+  mismatch_penalty: 0.0
+  consistency_weight: 0.0
+  redundancy_weight: 0.0
+correlation:
+  time_window_sec: 3.0
+  session_time_window_sec: 10.0
+detection:
+  attack_threshold: 0.5
+  suspicious_event_threshold: 0.0
+experiment:
+  scenario: benign
+  tamper_level: 0.0

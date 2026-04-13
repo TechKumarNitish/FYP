@@ -1,0 +1,14 @@
+[
+  {
+    "attack_detected": 1,
+    "attack_type": "PFCP_or_Control_Anomaly",
+    "semantic_event": "PFCPUnknown",
+    "event_trust": 1.0
+  },
+  {
+    "attack_detected": 1,
+    "attack_type": "PFCP_or_Control_Anomaly",
+    "semantic_event": "PFCPUnknown",
+    "event_trust": 1.0
+  }
+]

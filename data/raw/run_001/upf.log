@@ -1,0 +1,5 @@
+Apr 13 21:40:22 nitish-Lenovo-ideapad-130-15IKB open5gs-upfd[4325]: 04/13 21:40:22.657: [core] ERROR: epoll failed (4:Interrupted system call) (../lib/core/ogs-epoll.c:221)
+Apr 13 22:53:57 nitish-Lenovo-ideapad-130-15IKB open5gs-upfd[4325]: 04/13 22:53:56.692: [core] ERROR: epoll failed (4:Interrupted system call) (../lib/core/ogs-epoll.c:221)
+Apr 14 00:00:08 nitish-Lenovo-ideapad-130-15IKB systemd[1]: Reloading open5gs-upfd.service - Open5GS UPF Daemon...
+Apr 14 00:00:08 nitish-Lenovo-ideapad-130-15IKB open5gs-upfd[4325]: 04/14 00:00:08.715: [app] INFO: SIGHUP received (../src/main.c:59)
+Apr 14 00:00:08 nitish-Lenovo-ideapad-130-15IKB systemd[1]: Reloaded open5gs-upfd.service - Open5GS UPF Daemon.

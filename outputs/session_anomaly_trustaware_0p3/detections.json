@@ -1,0 +1,26 @@
+[
+  {
+    "attack_detected": 1,
+    "attack_type": "PFCP_or_Control_Anomaly",
+    "semantic_event": "SMF_IP_ASSIGNED",
+    "event_trust": 0.7062
+  },
+  {
+    "attack_detected": 1,
+    "attack_type": "PFCP_or_Control_Anomaly",
+    "semantic_event": "SMF_IP_ASSIGNED",
+    "event_trust": 0.7062
+  },
+  {
+    "attack_detected": 1,
+    "attack_type": "PFCP_or_Control_Anomaly",
+    "semantic_event": "PFCPUnknown",
+    "event_trust": 0.5292
+  },
+  {
+    "attack_detected": 1,
+    "attack_type": "PFCP_or_Control_Anomaly",
+    "semantic_event": "PFCPUnknown",
+    "event_trust": 0.5292
+  }
+]

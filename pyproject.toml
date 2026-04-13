@@ -1,0 +1,5 @@
+[project]
+name = "trustprov5gc"
+version = "0.2.0"
+description = "Tamper-aware provenance-based attack detection research prototype for 5G core"
+requires-python = ">=3.10"

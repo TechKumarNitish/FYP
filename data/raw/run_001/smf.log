@@ -1,0 +1,5 @@
+Apr 13 21:40:22 nitish-Lenovo-ideapad-130-15IKB open5gs-smfd[4323]: 04/13 21:40:22.639: [core] ERROR: epoll failed (4:Interrupted system call) (../lib/core/ogs-epoll.c:221)
+Apr 13 22:53:56 nitish-Lenovo-ideapad-130-15IKB open5gs-smfd[4323]: 04/13 22:53:56.638: [core] ERROR: epoll failed (4:Interrupted system call) (../lib/core/ogs-epoll.c:221)
+Apr 14 00:00:08 nitish-Lenovo-ideapad-130-15IKB systemd[1]: Reloading open5gs-smfd.service - Open5GS SMF Daemon...
+Apr 14 00:00:08 nitish-Lenovo-ideapad-130-15IKB open5gs-smfd[4323]: 04/14 00:00:08.859: [app] INFO: SIGHUP received (../src/main.c:59)
+Apr 14 00:00:08 nitish-Lenovo-ideapad-130-15IKB systemd[1]: Reloaded open5gs-smfd.service - Open5GS SMF Daemon.
